@@ -60,4 +60,6 @@ message.channel.send({embed:{
 
 
 
-client.login("NTQxNDk4NDE5NjcyMzgzNTA5.DziNZw.7ynAwZg2jkP1E0jyz6iCPliRRok");     // insert client id here
+// client.login("client secret");     // insert client id here
+
+client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secret
