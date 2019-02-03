@@ -60,4 +60,4 @@ message.channel.send({embed:{
 
 
 
-client.login("Insert Token here");     // insert client id here
+client.login("NTQxNDk4NDE5NjcyMzgzNTA5.DziNZw.7ynAwZg2jkP1E0jyz6iCPliRRok");     // insert client id here
