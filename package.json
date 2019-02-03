@@ -4,8 +4,8 @@
   "description": "mcBOT is MR. COUNTER BOT . When user send Any Steemit Blog Post link to channel or DM , it reply with 'total words ,total character and total vote' values. It is opensourced and anyone can use this bot.",
   "main": "app.js",
   "dependencies": {
-    "discord.js": "^10.15.1",
-    "nodejs": "^8.11.2",
+    "discord.js": "^11.4.2",
+    "nodejs": "^10.15.1",
     "request": "^2.88.0"
   },
   "devDependencies": {},
