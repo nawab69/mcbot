@@ -1,0 +1,28 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "description": "mcBOT is MR. COUNTER BOT . When user send Any Steemit Blog Post link to channel or DM , it reply with 'total words ,total character and total vote' values. It is opensourced and anyone can use this bot.",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "nodejs": "^0.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nawab69",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawab69/mcbot.git"
+  },
+  "keywords": [
+    "mcbot"
+  ],
+  "bugs": {
+    "url": "https://github.com/nawab69/mcbot/issues"
+  },
+  "homepage": "https://github.com/nawab69/mcbot#readme"
+}
