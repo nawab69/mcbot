@@ -76,5 +76,10 @@ Simply fork to this repository
 Submit your issue to this repository
 ## Donation
 You can Donate me for this BOT
+ STEEMIT : @nawab69
+ Ether(ERC-20) : 0xc2c8e307c5c0f33eab27a95c7c2e029234732a9a
+
+## Tutorial & Updates
+All tutorials of this bot & Updates will published to my [steemit blog](https://steemit.com/@nawab69)
 
 
