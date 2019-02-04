@@ -24,19 +24,28 @@ Steemit Blog : https://steemit.com/@nawab69
 - Request Module
 - [STEEMTOOLS API](http://github.com/nawab69/steemtools-api)
 
-### Installations 
+### Installations
 - Open Terminal / CMD
 - Install NodeJS
 ``apt install nodejs``
+- Install Git
+``apt install git``
 - Create Directory
 ``mkdir mcbot``
 - Go to mcbot folder
 ``cd mcbot``
-- Install NodeJs Module
+- Clone this repository
+``git clone https://github.com/nawab69/mcbot.git``
+- Change the directory to bot directory.
+``cd mcbot``
+- Install modules from package json
+``npm install``
+- Or manually install all modules.
+  - Install NodeJs Module
 ``npm install nodejs --save``
-- Install DiscordJS Module
+  - Install DiscordJS Module
 ``npm install discord.js --save``
-- Install Request Module
+  - Install Request Module
 ``npm install request --save``
 
 ### Customization
