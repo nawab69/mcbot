@@ -84,6 +84,7 @@ All tutorials of this bot & Updates will published to my [steemit blog](https://
 
 ## Roadmap
 - Add More commands
+- Bring it in steemit Comment BOT
 ## Note 
 This BOT is under MIT license. You can use this bot for free. You can use my function to your previous BOT.
 
