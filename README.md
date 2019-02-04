@@ -49,13 +49,13 @@ Steemit Blog : https://steemit.com/@nawab69
 ``npm install request --save``
 
 ### Customization
-- First Download the zip file.
+- Open ``app.js`` with any text editor.
 - Edit The last line of ``app.js`` 
  Uncomment this line
  ```
  client.login("client secret");  
  ```
- Write your client secret in the ``""``
+ Write your client secret into the ``""``
  
  Comment the last line.
  
