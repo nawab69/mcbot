@@ -22,7 +22,6 @@ var result = JSON.parse(body);        // convert json to object
 
 if(result.total_words !== 0){
 message.channel.send({embed:{
-    color: "#ff23ff",
     author: {
       name: client.user.username,
       icon_url: client.user.avatarURL
