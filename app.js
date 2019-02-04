@@ -60,6 +60,6 @@ message.channel.send({embed:{
 
 
 
-// client.login("client secret");     // insert client id here
+// client.login("client secret");     // insert client secret here (uncomment)
 
-client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secret
+client.login(process.env.BOT_TOKEN);  //BOT_TOKEN is the Client Secret. Only for heroku server.  (comment this line if you run own server)
