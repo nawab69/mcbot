@@ -15,7 +15,8 @@
 #### MR. COUNTER BOT
 Author: @nawab6
 Steemit Blog : https://steemit.com/@nawab69
----
+
+
 ## DOCUMENTATION 
 ### Requurements
 - NodeJS
@@ -31,4 +32,13 @@ Steemit Blog : https://steemit.com/@nawab69
 - Go to mcbot folder
 ``cd mcbot``
 - Install NodeJs Module
-``npm install nodejs --save express``
+``npm install nodejs --save``
+- Install DiscordJS Module
+``npm install discord.js --save``
+- Install Request Module
+``npm install request --save``
+
+### Customization
+- First Download the zip file.
+- Edit The last line of ``app.js`` 
+
