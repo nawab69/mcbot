@@ -18,7 +18,7 @@ Steemit Blog : https://steemit.com/@nawab69
 
 
 ## DOCUMENTATION 
-### Requurements
+### Requirements
 - NodeJS
 - DiscordJS Module
 - Request Module
@@ -58,8 +58,6 @@ Steemit Blog : https://steemit.com/@nawab69
  Write your client secret into the ``""``
  
  Comment the last line.
- 
-- Now move the ``app.js`` and ``package.json`` to mcbot directory.
 
 ### Run the bot 
 Write down this code on terminal
