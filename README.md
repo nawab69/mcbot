@@ -9,3 +9,26 @@
 
 
 </div>
+
+
+# mcBOT
+#### MR. COUNTER BOT
+Author: @nawab6
+Steemit Blog : https://steemit.com/@nawab69
+---
+## DOCUMENTATION 
+### Requurements
+- NodeJS
+- DiscordJS Module
+- Request Module
+- [STEEMTOOLS API](http://github.com/nawab69/steemtools-api)
+
+### Installations 
+- Install NodeJS
+``apt install nodejs``
+- Create Directory
+``mkdir mcbot``
+- Go to mcbot folder
+``cd mcbot``
+- Install NodeJs Module
+``npm install nodejs --save express``
