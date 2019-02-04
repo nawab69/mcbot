@@ -41,4 +41,32 @@ Steemit Blog : https://steemit.com/@nawab69
 ### Customization
 - First Download the zip file.
 - Edit The last line of ``app.js`` 
+ Uncomment this line
+ ```
+ client.login("client secret");  
+ ```
+ Write your client secret in the ``""``
+ 
+ Comment the last line.
+ 
+- Now move the ``app.js`` and ``package.json`` to mcbot directory.
 
+### Run the bot 
+Write down this code on terminal
+```
+node app.js
+```
+Now add your bot from discord developer.
+
+
+## Command
+
+- Sent any steemit Post link to your Discord chanel or DM to mcbot.
+- It will return your steemit post's  
+   - Total Words
+   - Total Characters 
+   - Total Upvotes
+ 
+ ## Use This Bot without server
+ 
+ 
