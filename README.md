@@ -82,4 +82,8 @@ You can Donate me for this BOT
 ## Tutorial & Updates
 All tutorials of this bot & Updates will published to my [steemit blog](https://steemit.com/@nawab69)
 
+## Roadmap
+- Add More commands
+## Note 
+This BOT is under MIT license. You can use this bot for free. You can use my function to your previous BOT.
 
