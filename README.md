@@ -25,6 +25,7 @@ Steemit Blog : https://steemit.com/@nawab69
 - [STEEMTOOLS API](http://github.com/nawab69/steemtools-api)
 
 ### Installations 
+- Open Terminal / CMD
 - Install NodeJS
 ``apt install nodejs``
 - Create Directory
