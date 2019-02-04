@@ -69,5 +69,12 @@ Now add your bot from discord developer.
    - Total Upvotes
  
  ## Use This Bot without server
- 
- 
+ - Invite mcBOT to your chanel by this [link](https://discordapp.com/oauth2/authorize?client_id=541498419672383509&permissions=522304&scope=bot)
+## How to contribue
+Simply fork to this repository
+## Issue & Bug
+Submit your issue to this repository
+## Donation
+You can Donate me for this BOT
+
+
