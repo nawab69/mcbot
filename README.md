@@ -1,5 +1,3 @@
-# mcBOT
-Mr. Counter Bot
 
 <div align="center">
   
