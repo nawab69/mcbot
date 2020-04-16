@@ -13,7 +13,7 @@
 
 # mcBOT
 #### MR. COUNTER BOT
-Author: @nawab6
+Author: @nawab69
 Steemit Blog : https://steemit.com/@nawab69
 
 
